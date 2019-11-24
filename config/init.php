@@ -1,7 +1,11 @@
 <?php 
 
+session_start();
+
 // Config file
 require_once 'config.php';
+
+require_once 'helpers/system_helper.php';
 
 // Autoload
 function __autoload($class_name) {

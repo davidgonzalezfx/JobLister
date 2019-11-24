@@ -3,7 +3,7 @@
   
 
   <div class="jumbotron">
-    <h1 class="display-3">Find A Job</h1>
+    <h1 class="display-3">Find a job</h1>
     <form action="index.php" method="GET">
       <select name="category" class="form-control">
         <option value="0">Choose category</option>
